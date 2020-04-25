@@ -1,2 +1,2 @@
-# collision-algorithm
-if collide , color changes.
+# p5.play-boilerplate
+Boiler plate for p5.play
